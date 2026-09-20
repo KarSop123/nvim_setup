@@ -1,0 +1,4 @@
+.DS_Store
+lazy-lock.json # Optional: keep this if you want reproducible plugin versions
+plugin/packer_compiled.lua
+undo/
